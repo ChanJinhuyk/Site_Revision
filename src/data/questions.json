@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Quel est le type de données utilisé pour stocker une séquence de caractères en Python ?",
+        "options": ["String", "Integer", "List", "Dictionary"],
+        "correctAnswer": "String"
+    },
+    {
+        "question": "Quelle balise HTML est utilisée pour créer un lien hypertexte ?",
+        "options": ["<link>", "<a>", "<href>", "<url>"],
+        "correctAnswer": "<a>"
+    },
+    {
+        "question": "Quel est le rôle principal de CSS dans le développement web ?",
+        "options": ["Structurer le contenu", "Ajouter des styles", "Gérer la logique", "Stocker des données"],
+        "correctAnswer": "Ajouter des styles"
+    },
+    {
+        "question": "Quelle méthode JavaScript est utilisée pour sélectionner un élément par son ID ?",
+        "options": ["getElementById()", "querySelector()", "getElementsByClassName()", "selectElement()"],
+        "correctAnswer": "getElementById()"
+    },
+    {
+        "question": "Quel est l'acronyme de T.E.F. en matière d'insertion professionnelle ?",
+        "options": ["Test d'Évaluation de Français", "Technique d'Évaluation de Formation", "Test d'Évaluation de Fin", "Technique d'Évaluation de Français"],
+        "correctAnswer": "Test d'Évaluation de Français"
+    },
+    {
+        "question": "Quel protocole est utilisé pour la communication sur Internet ?",
+        "options": ["FTP", "HTTP", "SMTP", "TCP"],
+        "correctAnswer": "HTTP"
+    },
+    {
+        "question": "Quel est le composant principal d'un ordinateur qui exécute des instructions ?",
+        "options": ["Mémoire", "Processeur", "Disque dur", "Carte mère"],
+        "correctAnswer": "Processeur"
+    },
+    {
+        "question": "Quelle est la fonction principale d'un réseau informatique ?",
+        "options": ["Stocker des données", "Transférer des données", "Exécuter des programmes", "Gérer des utilisateurs"],
+        "correctAnswer": "Transférer des données"
+    },
+    {
+        "question": "Quel langage est principalement utilisé pour le développement de sites web interactifs ?",
+        "options": ["Python", "Java", "JavaScript", "C++"],
+        "correctAnswer": "JavaScript"
+    },
+    {
+        "question": "Quel est le rôle d'un système d'exploitation ?",
+        "options": ["Gérer le matériel", "Développer des applications", "Stocker des fichiers", "Créer des réseaux"],
+        "correctAnswer": "Gérer le matériel"
+    }
+]
